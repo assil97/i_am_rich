@@ -3,3 +3,4 @@ This is an iOS Application which is static page that only shows that I am Rich a
 
 This is the front-end page with no activity when anything is pressed.
 
+Check .gif file for the representation of the application
